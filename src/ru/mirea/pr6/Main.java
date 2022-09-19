@@ -24,11 +24,7 @@ public class Main {
             if (i == 4){ System.out.println(arr[i]);}
             else { System.out.print(arr[i] + ", ");}
         }
-        System.out.printf("45");
-        System.out.println("123");
 
-        System.out.printf("45");
-        System.out.println("123");
     }
 
     public static void main(String[] args) {
