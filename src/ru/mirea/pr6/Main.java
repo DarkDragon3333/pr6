@@ -25,6 +25,7 @@ public class Main {
             else { System.out.print(arr[i] + ", ");}
         }
         System.out.printf("45");
+        System.out.println("123");
     }
 
     public static void main(String[] args) {
