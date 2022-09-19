@@ -26,6 +26,9 @@ public class Main {
         }
         System.out.printf("45");
         System.out.println("123");
+
+        System.out.printf("45");
+        System.out.println("123");
     }
 
     public static void main(String[] args) {
