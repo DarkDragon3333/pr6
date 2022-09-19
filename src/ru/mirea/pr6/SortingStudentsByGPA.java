@@ -28,7 +28,8 @@ public class SortingStudentsByGPA  {
         arrayC = sortArray(arrayC); // правая часть возврат из рекурсии строкой return arrayA;
 
         // далее опять рекурсия возврата слияния двух отсортированных массивов
-        return mergeArray(arrayB, arrayC);
+        int[] ae = new int[5];
+        return ae;
     }
 
 }
